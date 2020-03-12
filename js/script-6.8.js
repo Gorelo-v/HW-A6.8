@@ -36,6 +36,6 @@ $("#progressBar").attr("width", bar);
 $("#btn3").click(increment2);
 
 
-if (width == 100) {
-	console.log("vse");
-}
+// if (width == 100) {
+// 	console.log("vse");
+// }
